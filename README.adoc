@@ -7,3 +7,5 @@ _This line is italisized_
 * A thing
 * Another thing
 * Yet another thing
+
+![](https://komarev.com/ghpvc/?username=slgraff)
