@@ -1,8 +1,6 @@
-= Profile README
+Profile README
 
 Hey y'all, what is up?
-
-_This line is italisized_
 
 * A thing
 * Another thing
