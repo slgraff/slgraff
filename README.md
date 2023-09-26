@@ -1,3 +1,3 @@
 Profile README
 
-## Do the thing! ([Just do it!](https://nike.com))
+## Build Like The Best ([GitHub](https://github.com))
